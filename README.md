@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>I'm use VScode.</strong>
+  💼 Tools: I'm use VScode.
 </p>
 
 <p align="left">
