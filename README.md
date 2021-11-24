@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hey guys, my name is Alana. I know a lot HTML and CSS and studying JavaScript and React. I don't have<br>
+  Hey guys, my name is Alana. I know a lot HTML and CSS and studying JavaScript. I don't have<br>
   a job yet but, I'm looking.
 </p>
 
