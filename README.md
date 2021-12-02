@@ -14,13 +14,10 @@
 </p>
 
 <p align="left">
-  <a href="https://is.gd/oGi4Ka" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
   <a href="www.linkedin.com/in/alana-ribeiro-818352223" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://criarmeulink.com.br/u/1635976451" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=+5512981182732&text=sua%20Entre em contato comigo." alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
   <a href="https://www.facebook.com/alana.ribeiro.9235/" alt="Facebook">
