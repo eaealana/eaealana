@@ -10,6 +10,10 @@
 </p>
 
 <p align="left">
+  🔧 Skillss: HTML, CSS and JS
+</p> 
+
+<p align="left">
   💌 Here I'll leave the way to contact : ⤵️
 </p>
 
