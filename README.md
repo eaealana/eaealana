@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔧 Skillss: HTML, CSS and JS
+  🔧 Skills: HTML, CSS and JS.
 </p> 
 
 <p align="left">
