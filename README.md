@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-Studying to be a Full-stack developer, but currently with extensive knowledge in:
-- HTML
-- CSS
-- JavaScript
+Studying to be a Full-stack developer, but currently with extensive knowledge in: </br>
+- HTML </br>
+- CSS </br>
+- JavaScript </br>
 In continuous learning and with a search to develop and apply in practice all learning.
 </p> 
 
