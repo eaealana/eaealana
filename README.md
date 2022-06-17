@@ -1,16 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Hey guys, my name is Alana. I know a lot HTML and CSS and studying JavaScript. I don't have<br>
-  a job yet but, I'm looking.
-</p>
-
-<p align="left">
-  💼 Tools: I'm use VScode.
-</p>
-
-<p align="left">
-  🔧 Skills: HTML, CSS and JS.
+Studying to be a Full-stack developer, but currently with extensive knowledge in:
+- HTML
+- CSS
+- JavaScript
+In continuous learning and with a search to develop and apply in practice all learning.
 </p> 
 
 <p align="left">
