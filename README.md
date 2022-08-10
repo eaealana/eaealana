@@ -13,7 +13,7 @@ In continuous learning and with a search to develop and apply in practice all le
 </p>
 
 <p align="left">
-  <a href="www.linkedin.com/in/alana-ribeiro-818352223" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/eae-alana/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=+5512981182732&text=sua%20Entre em contato comigo." alt="WhatsApp" target="_blank">
