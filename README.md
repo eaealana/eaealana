@@ -2,9 +2,10 @@
 
 <p align="left"> 
 Studying to be a Full-stack developer, but currently with extensive knowledge in: </br>
-- HTML </br>
-- CSS </br>
 - JavaScript </br>
+- React </br>
+- Node </br>
+- HTML e CSS </br>
 In continuous learning and with a search to develop and apply in practice all learning.
 </p> 
 
