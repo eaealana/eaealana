@@ -1,14 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A77ECB&height=160&section=header&text=Alana%20Ribeiro🥰&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=500&color=A77ECB&background=A9459200&center=false&vCenter=false&width=950&lines=Desenvolvedora+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=500&color=A77ECB&background=A9459200&center=false&vCenter=false&width=950&lines=Desenvolvedora+Full-Stack)](https://git.io/typing-svg)
 
-<h2>Sobre mim: </h2>
+Conheci a programação do nada, um dia baixei o app Mimo e tive o primeiro contato com HTML e me apaixonei por completo. Desde então, me vejo com a mesma paixão, me dedicando a me tornar uma Desenvolvedora Full-Stack. Buscando sempre evoluir, estou sempre aberta a novas experiências e aprendizados. 
 
-- Tenho 17 anos, sou de São José dos Campos - SP e atualmente estou migrando para programação, </br> mas estou trabalhando como Administrativo na Imobiliária Parceira
+Atualmente venho estudando/desenvolvendo um projeto FullStack utilizando ReactJS, Styled-Components, NodeJS, MongoDB e PostregSQL. 
+Percebi que entender tanto como as coisas funcionam por trás das cortinas e como fazer todo o visual e animações me interessa muito! 
 
-- Atualmente estou aprendendo React e Node
+Faço parte de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
 
-- Estudante da Rocketseat e DevClub
+Tenho experiência com: ReactJS, Javascript, NodeJS, MongoDB, PostgreSQL, Git/GitHub, gerenciamento de pacotes NPM/Yarn, HTML, CSS, Styled Components, web responsivo.
 
 <br>
 <br>
