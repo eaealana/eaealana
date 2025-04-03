@@ -2,14 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=500&color=A77ECB&background=A9459200&center=false&vCenter=false&width=950&lines=Desenvolvedora+Full-Stack)](https://git.io/typing-svg)
 
-Conheci a programação do nada, um dia baixei o app Mimo e tive o primeiro contato com HTML e me apaixonei por completo. Desde então, me vejo com a mesma paixão, me dedicando a me tornar uma Desenvolvedora Full-Stack. Buscando sempre evoluir, estou sempre aberta a novas experiências e aprendizados. 
+Helloo, como vai? :)
 
-Atualmente venho estudando/desenvolvendo um projeto FullStack utilizando ReactJS, Styled-Components, NodeJS, MongoDB e PostregSQL. 
-Percebi que entender tanto como as coisas funcionam por trás das cortinas e como fazer todo o visual e animações me interessa muito! 
+Conheci a programação há dois anos, quando tive meu primeiro contato com HTML e achei simplesmente incrível! Desde então, me apaixonei pelos códigos e fui explorando cada vez mais.
 
-Faço parte de uma comunidade no discord com +600 membros chamada: "It's Time to Code !", onde compartilhamos conhecimento sobre as diferentes áreas da programação, tiramos dúvidas, temos dias marcados para conversações em inglês, realizamos networking e aprendemos juntos.
+Comecei com HTML e CSS, depois me aventurei no React e, mais tarde, entrei no mundo Full-Stack.
+Desenvolvendo projetos com <strong>ReactJS, Styled-Components, NodeJS, MongoDB e PostgreSQL.</strong> Amo entender o que acontece nos bastidores do código, mas também curto demais criar visuais dinâmicos e animados!
 
-Tenho experiência com: ReactJS, Javascript, NodeJS, MongoDB, PostgreSQL, Git/GitHub, gerenciamento de pacotes NPM/Yarn, HTML, CSS, Styled Components, web responsivo.
+Agora, estou voltando com tudo para a área tech, mergulhando de cabeça em novos projetos e aprendizados 🙃
+
+🛠 Tecnologias: ReactJS, Javascript, NodeJS, MongoDB, PostgreSQL, Git/GitHub, NPM/Yarn, HTML, CSS, Styled Components, web responsivo.
 
 <br>
 <br>
@@ -42,7 +44,6 @@ Tenho experiência com: ReactJS, Javascript, NodeJS, MongoDB, PostgreSQL, Git/Gi
   <a href="https://api.whatsapp.com/send?phone=+5512981182732&text=sua%20Entre em contato comigo." alt="WhatsApp" target="_blank">
   <img height="28px" src="https://img.shields.io/badge/-WhatsApp-A77ECB?style=flat-square&labelColor=A77ECB&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>     </a>
 
-  <a href="https://www.instagram.com/iaae_alana/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/alanaribeiroosz/" alt="Instagram" target="_blank">
   <img height="28px" src="https://img.shields.io/badge/-Instagram-A77ECB?style=flat-square&labelColor=A77ECB&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"></a>
-</p> 
-
+</p>
