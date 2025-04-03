@@ -4,7 +4,7 @@
 
 Helloo, como vai? :)
 
-Conheci a programação há dois anos, quando tive meu primeiro contato com HTML e achei simplesmente incrível! Desde então, me apaixonei pelos códigos e fui explorando cada vez mais.
+Conheci a programação há três anos, quando tive meu primeiro contato com HTML e achei simplesmente incrível! Desde então, me apaixonei pelos códigos e fui explorando cada vez mais.
 
 Comecei com HTML e CSS, depois me aventurei no React e, mais tarde, entrei no mundo Full-Stack.
 Desenvolvendo projetos com <strong>ReactJS, Styled-Components, NodeJS, MongoDB e PostgreSQL.</strong> Amo entender o que acontece nos bastidores do código, mas também curto demais criar visuais dinâmicos e animados!
